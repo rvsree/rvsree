@@ -1,4 +1,6 @@
-**Sreedharan Radhakrishnan** — Engineering Leader building agentic AI platforms
+**Sreedharan Radhakrishnan**
+
+Engineering Leader | Agentic Systems — RAG · MCP | Enterprise Systems — AWS · Microservices · Distributed Systems
 
 Currently architecting a multi-service RAG/Agentic Chatbot platform (an Interview Kickstart FDE capstone, no real users - built and deployed to prove the architecture): ingestion, retrieval, multi-agent orchestration, HITL workflows, and MCP-based tool integration, live on AWS end-to-end.
 
