@@ -6,6 +6,8 @@ Welcome to my github profile.
 
 I am currently architecting a multi-service RAG/Agentic Chatbot platform (an Interview Kickstart FDE capstone, no real users - built and deployed to prove the architecture): ingestion, retrieval, multi-agent orchestration, HITL workflows, and MCP-based tool integration, live on AWS end-to-end.
 
+**[Live demo →](https://hrb-chatbot-ui.rvsree.dev)**
+
 - [hrb_emp_assist](https://github.com/rvsree/hrb_emp_assist) — platform parent: shared architecture docs, diagrams, ops across the 6 repos below
 - [hrb_chatbot_service](https://github.com/rvsree/hrb_chatbot_service) — flagship: full RAG/agentic platform, deployed live
 - [hrb_chatbot_ui](https://github.com/rvsree/hrb_chatbot_ui) — React frontend
